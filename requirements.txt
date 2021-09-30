@@ -1,7 +1,12 @@
+bs4==
+io==
+lmxl
+mysql-connector-python==2.0
 notebook==6.4.0
 numpy==1.21.1
 oauthlib==3.1.0
 openpyxl==3.0.7
+requests==
 packaging==20.4
 pandas==1.1.4
 pandocfilters==1.4.3
@@ -16,5 +21,9 @@ pickleshare==0.7.5
 Pillow==8.0.1
 plotly==5.2.1
 pluggy==0.13.1
+pymysql==
+sqlalchemy==
 streamlit==0.87.0
 xlrd==2.0.1
+zipfile
+
