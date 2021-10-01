@@ -1,4 +1,4 @@
-bs4==4.9.3
+bs4
 lmxl==4.6.3
 mysql-connector-python==2.0
 notebook==6.4.0
