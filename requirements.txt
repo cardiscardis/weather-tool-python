@@ -23,6 +23,6 @@ pymysql==0.7.4
 sqlalchemy==1.4
 streamlit==0.87.0
 xlrd==2.0.1
-zipfile
+zipfile==12.4.3
 io
 
