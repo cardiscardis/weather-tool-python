@@ -1,5 +1,5 @@
 bs4
-lmxl==4.6.3
+lmxl
 mysql-connector-python==2.0
 notebook==6.4.0
 numpy==1.21.1
